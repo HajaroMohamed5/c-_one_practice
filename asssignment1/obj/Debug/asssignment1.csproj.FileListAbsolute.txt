@@ -1,0 +1,11 @@
+D:\java code\firstexampleC#\asssignment1\asssignment1\bin\Debug\asssignment1.exe.config
+D:\java code\firstexampleC#\asssignment1\asssignment1\bin\Debug\asssignment1.exe
+D:\java code\firstexampleC#\asssignment1\asssignment1\bin\Debug\asssignment1.pdb
+D:\java code\firstexampleC#\asssignment1\asssignment1\obj\Debug\asssignment1.csproj.AssemblyReference.cache
+D:\java code\firstexampleC#\asssignment1\asssignment1\obj\Debug\asssignment1.Properties.Resources.resources
+D:\java code\firstexampleC#\asssignment1\asssignment1\obj\Debug\asssignment1.csproj.GenerateResource.cache
+D:\java code\firstexampleC#\asssignment1\asssignment1\obj\Debug\asssignment1.csproj.CoreCompileInputs.cache
+D:\java code\firstexampleC#\asssignment1\asssignment1\obj\Debug\asssignment1.exe
+D:\java code\firstexampleC#\asssignment1\asssignment1\obj\Debug\asssignment1.pdb
+D:\java code\firstexampleC#\asssignment1\asssignment1\obj\Debug\asssignment1.exe.config
+D:\java code\firstexampleC#\asssignment1\asssignment1\obj\Debug\asssignment1.lbname.resources
